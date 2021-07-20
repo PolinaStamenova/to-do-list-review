@@ -38,7 +38,7 @@ $ git clone git@github.com:PolinaStamenova/to-do-list.git
 
 - npm start
 
-## Authors
+## Author
 
 👤 **Polina Stamenova**
 
